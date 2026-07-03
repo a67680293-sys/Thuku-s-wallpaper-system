@@ -1,0 +1,6 @@
+{
+  "name": "Floating Player",
+  "description": "System-wide floating video player with picture-in-picture overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
